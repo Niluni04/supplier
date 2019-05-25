@@ -1,0 +1,13 @@
+2019-05-25 22:40:37,386 [Worker-4] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-05-25 22:41:17,441 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ecommercee:EcommerceWebApp1:0.0.1-SNAPSHOT @ C:\Users\Niluni\Desktop\EcommerceWebApp1\pom.xml.
+2019-05-25 22:41:23,960 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-25 22:41:23,969 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-25 22:41:23,998 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-25 22:41:24,003 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-25 22:41:24,003 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Niluni\Desktop\EcommerceWebApp1\src\test\resources
+2019-05-25 22:41:25,345 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ecommercee:EcommerceWebApp1:0.0.1-SNAPSHOT @ C:\Users\Niluni\Desktop\EcommerceWebApp1\pom.xml.
+2019-05-25 22:41:28,452 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-25 22:41:28,457 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-25 22:41:28,461 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-25 22:41:28,464 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-25 22:41:28,464 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Niluni\Desktop\EcommerceWebApp1\src\test\resources
